@@ -8,12 +8,10 @@ Solvation free energies play a fundamental role in various fields of chemistry a
 
 
 
+## Cite
 
 
-## Citation
-
-
-Wenjie Du, Shuai Zhang, Zhaohui Cai, Zhiyuan Liu, Junfeng Fang, Jianmin Wang, Yang Wang. Molecular Merged Hypergraph Neural Network for Explainable Solvation Free Energy Prediction. Research. 0:DOI:10.34133/research.0740
+* Wenjie Du, Shuai Zhang, Zhaohui Cai, Zhiyuan Liu, Junfeng Fang, Jianmin Wang, Yang Wang. Molecular Merged Hypergraph Neural Network for Explainable Solvation Free Energy Prediction. Research. 0:DOI:10.34133/research.0740
 
 
 
